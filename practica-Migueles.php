@@ -1,5 +1,6 @@
 <?php
 
+    echo "Esta modificación fue hecha desde el repositorio local";
     /**
      * Funcion saludo.
      * 
